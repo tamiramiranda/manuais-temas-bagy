@@ -4,17 +4,19 @@ Esse bloco configura os principais itens da página de produto da loja, contendo
 
 Ao acessá-lo teremos os **Blocos da seção** e **Configurações da seção.**
 
-Em **Blocos da seção** temos:
-
 ::: info Lembrando
 Para esses dois blocos é possível fazer a sua reordenação horizontal.
 :::
+
+Em **Blocos da seção** temos:
 
 * **Galeria do produto:** Possível de escolher o **Estilo** de exibição das **Thumbs do produto**, se serão **Vertical** ou **Horizontal**.
 *   **Formulário do produto:**
 
     * **Preço em destaque:** Possível de escolher a maneira de **exibição do Preço do** **produto**, se será **Normal** ou **Pagamento com desconto.**
     * **Habilitar compartilhamento redes sociais:** Possibilidade de exibir ou não o compartilhamento do produto nas redes sociais.
+    * **Link da tabela de medidas:** Possível inserir o link para uma página personalizada com a tabela de medidas. O conteúdo será exibido em um modal.
+
 
     ![image](/tema-padrao-3-0/painel-do-tema-pagina-produto-produto.png)
 

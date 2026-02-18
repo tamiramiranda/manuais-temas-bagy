@@ -12,6 +12,6 @@ A Bagy disponibiliza vários intermediadores de pagamentos em sua plataforma. Al
 
 ![image](/tema-padrao-3-0/configuracoes-pagamento-2.png)
 
-As formas de pagamento na página do produto (como mostra a imagem acima), só serão exibidas se a configuração de visualização das formas de pagamento estiver selecionada como **Lista aberta**. Para realizar essa configuração, na plataforma da Bagy, vá até o menu de _**Configurações > Loja > Geral > Pagamentos**_. Essa configuração precisa estar selecionada como **Lista aberta** para ser exibida corretamente em sua loja, como mostra a imagem abaixo:
+Para as formas de pagamento na página do produto (como mostra a imagem acima), é recomendado que a configuração de visualização esteja selecionada como **Lista aberta**. Para realizar essa configuração, na plataforma da Bagy, vá até o menu de _**Configurações > Loja > Geral > Pagamentos**_. Essa configuração precisa estar selecionada como **Lista aberta** para ser exibida corretamente em sua loja, como mostra a imagem abaixo:
 
 ![image](/tema-padrao-3-0/configuracoes-pagamento-3.png)

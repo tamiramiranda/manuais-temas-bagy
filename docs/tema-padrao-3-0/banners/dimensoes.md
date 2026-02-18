@@ -2,8 +2,12 @@
 
 Os banners utilizados nesse tema possuem tamanhos diferentes dependendo da localização deles no tema. Para que sejam exibidas boas imagens e fiquem bem dispostas é necessário ficar atento as dimensões dessas imagens. Veja abaixo cada localização que utilizamos e a dimensão recomendada.
 
-::: info Lembrando:
+::: info Observação:
 Os banners podem sofrer redimensionamento das imagens em alguns dispositivos e dependendo do tamanho de tela de exibição.
+:::
+
+::: info Lembrando que:
+Você pode escolher outras posições de banners para exibir em sua loja. O que está documentado aqui é a base que utilizamos caso queira se basear nela.
 :::
 
 ***
