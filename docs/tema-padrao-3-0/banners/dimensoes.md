@@ -28,7 +28,7 @@ Dimensões do banner: **425x495 pixels**
 
 **Banners Linha\***\
 Localização: **Extra1, Extra 2, Extra 3 e Extra 4**\
-Dimensões do banner: **250x250 pixels**\
+Dimensões do banner: **380x380 pixels**\
 **\***&#x45;stes banners não possuem versões específicas para dispositivos móveis.
 
 ![image](/tema-padrao-3-0/banners-dimensoes-3.png)
@@ -37,10 +37,10 @@ Dimensões do banner: **250x250 pixels**\
 
 **Grade de Banners\***\
 Localização: **Extra 5**\
-Dimensões do banner: **517x517 pixels**
+Dimensões do banner: **700x700 pixels**
 
 Localização: **Extra 6 e Extra 7**\
-Dimensões do banner: **517x250 pixels**\
+Dimensões do banner: **700x337 pixels**\
 **\***&#x45;stes banners não possuem versões específicas para dispositivos móveis.
 
 ![image](/tema-padrao-3-0/banners-dimensoes-4.png)
@@ -58,7 +58,7 @@ Dimensões do banner: **1920x270 pixels**\
 
 **Banner Desconto Progressivo\*** \
 Localização: **Cadastrado no menu de desconto progressivo**\
-Dimensões do banner: **1180x113 pixels**\
+Dimensões do banner: **1410x113 pixels**\
 **\***&#x45;stes banners não possuem versões específicas para dispositivos móveis.
 
 ![image](/tema-padrao-3-0/banners-dimensoes-6.png)

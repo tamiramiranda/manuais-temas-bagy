@@ -73,6 +73,7 @@ export const sidebarTemaPadrao30 = (basePath: string): DefaultTheme.SidebarItem[
             { text: 'Avaliações da Loja', link: `avaliacoes-da-loja` },
             { text: 'Avaliações Customizadas da Loja', link: `avaliacoes-customizadas` },
             { text: 'Vídeo', link: `video` },
+            { text: 'Galeria de Imagens', link: `galeria-imagens` },
           ],
         },
 
