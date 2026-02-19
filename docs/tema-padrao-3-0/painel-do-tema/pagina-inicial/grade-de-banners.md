@@ -6,7 +6,7 @@ Para esse bloco é possível realizar algumas configurações, tais como:
 * Arrastar o item para reposicioná-lo
 * Escolher qual será a posição do banner
 
-As opções de seleção para esses banners são: Extra 5, Extra 6 e Extra 7.
+As posições recomendadas para esses banners são: Extra 5, Extra 6 e Extra 7.
 
 Lembrando que para esse bloco é possível selecionar **no máximo** 3 banners e que eles são responsivos, ou seja, não tem versão desktop e mobile.
 

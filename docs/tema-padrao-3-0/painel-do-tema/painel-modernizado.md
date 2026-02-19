@@ -6,9 +6,19 @@ Essa é a nova cara do painel do nosso tema!
 
 ![image](/tema-padrao-3-0/painel-tema-painel-modernizado.png)
 
-Agora é possível reposicionar os elementos da pagina, para isso basta clicar no ícone ![image](/tema-padrao-3-0/painel-modernizado-icone.png) e arrastar para a posição desejada.
+Agora é possível **reposicionar** os elementos da pagina, para isso basta clicar no ícone ![image](/tema-padrao-3-0/painel-modernizado-icone.png) e arrastar para a posição desejada.
 
-![image](/tema-padrao-3-0/painel-tema-painel-modernizado.gif)
+![image](/tema-padrao-3-0/painel-do-tema-pagina-inicial-inicio-2.gif)
+
+***
+
+Também é possível **adicionar** e **remover seções** não fixas pelo editor de tema. Claro que respeitando o limite máximo de quantidade geral (inicialmente 50 seções) e limites individuais de cada seção.
+
+![image](/tema-padrao-3-0/painel-tema-painel-modernizado-2.png)
+
+![image](/tema-padrao-3-0/painel-tema-painel-modernizado-3.png)
+
+***
 
 Cada uma das seções desse painel estarão disponíveis dentro do painel de edição do tema. Para isso basta acessar _**Configurações > Editar Layout**_ e no tema desejado clicar em _**Editar Tema**_.
 

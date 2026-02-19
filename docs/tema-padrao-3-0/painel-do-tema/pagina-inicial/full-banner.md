@@ -2,7 +2,7 @@
 
 Para esse item é possível escolher se deseja exibir o banner ou não e escolher qual a posição dele.&#x20;
 
-Temos a configuração para o **Banner Home Desktop** e para o **Banner Home Mobile**.
+As posições recomendadas para esses banners são **Banner Home Desktop** e **Banner Home Mobile**.
 
 ![image](/tema-padrao-3-0/painel-do-tema-pagina-inicial-full-banner.png)
 

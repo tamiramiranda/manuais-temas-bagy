@@ -3,7 +3,7 @@
 Nós utilizamos uma configuração padrão da Bagy chamada Thumb do produto. A plataforma possui quatro tamanhos de thumbs para serem utilizados pelo tema. O que nós utilizamos na listagem é a **thumb 180**. Porém para deixar as imagens dos produtos mais chamativas na listagem nós usamos nessa chamada um tamanho maior.
 
 Para que na sua loja o tema se comporte do mesmo modo é necessário pedir o aumento da thumb 180 para a Bagy. \
-O tamanho que o tema utiliza é **245x245 pixels**.
+O tamanho que o tema utiliza é **315x315 pixels**.
 
 Entre em contato com a Bagy solicitando esse aumento através de abertura de chamado, como visto [aqui](../apresentacao/suporte).
 

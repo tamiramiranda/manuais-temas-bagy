@@ -41,11 +41,14 @@ export const sidebarTemaPadrao30 = (basePath: string): DefaultTheme.SidebarItem[
           items: [
             { text: 'Início', link: `inicio` },
             { text: 'Geral', link: `geral` },
+            { text: 'Imagens na listagem', link: `imagens-na-listagem` },
             { text: 'Logo', link: `logo` },
             { text: 'Tipografia', link: `tipografia` },
             { text: 'Cores', link: `cores` },
             { text: 'Selos', link: `selos` },
             { text: 'Redes Sociais', link: `redes-sociais` },
+            { text: 'Pagamentos', link: `pagamentos` },
+            { text: 'Estilo Customizado', link: `estilo-customizado` },
           ],
         },
 
@@ -60,6 +63,7 @@ export const sidebarTemaPadrao30 = (basePath: string): DefaultTheme.SidebarItem[
             { text: 'Início', link: `inicio` },
             { text: 'Full Banner', link: `full-banner` },
             { text: 'Barra de Informações', link: `barra-de-informacoes` },
+            { text: 'Barra de Informações Customizada', link: `barra-de-informacoes-customizada` },
             { text: 'Linha de Banners', link: `linha-de-banners` },
             { text: 'Grade de Banners', link: `grade-de-banners` },
             { text: 'Vitrine', link: `vitrine` },
@@ -67,6 +71,9 @@ export const sidebarTemaPadrao30 = (basePath: string): DefaultTheme.SidebarItem[
             { text: 'Notícias', link: `noticias` },
             { text: 'Marcas', link: `marcas` },
             { text: 'Avaliações da Loja', link: `avaliacoes-da-loja` },
+            { text: 'Avaliações Customizadas da Loja', link: `avaliacoes-customizadas` },
+            { text: 'Vídeo', link: `video` },
+            { text: 'Galeria de Imagens', link: `galeria-imagens` },
           ],
         },
 

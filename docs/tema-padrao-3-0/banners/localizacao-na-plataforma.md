@@ -2,6 +2,10 @@
 
 Um elemento que chama muita atenção nas lojas são os banners. Eles podem possuir diversões tamanhos e composições, e agradam por trazer um trabalho gráfico mais elaborado. Este tema utiliza-os em posições estratégicas. Os banners podem ser cadastrados no painel administrativo acessando _**Marketing > Engajamento > Banners**._
 
+::: info Lembrando que:
+Você pode escolher outras posições de banners para exibir em sua loja. O que está documentado aqui é a base que utilizamos caso queira se basear nela.
+:::
+
 De base para cadastro em sua loja, seguem os banners utilizados no tema com suas localizações:
 
 * **Banner Home**: Representa os banners principais da loja para a versão desktop, podendo ser somente um banner ou um carrossel com vários.
@@ -9,6 +13,7 @@ De base para cadastro em sua loja, seguem os banners utilizados no tema com suas
 * **Banners Linha**: São exibidos quatro banners pequenos, um ao lado do outro. Foram utilizadas as localizações _**Extra 1, Extra 2,**_ _**Extra 3 e Extra 4**_ para exibi-los. Estes banners são responsivos, desse modo, não contam com uma versão específica  para dispositivos móveis.
 * **Grade de Banners**: É exibido um banner grande e ao seu lado dois banners menores, um abaixo do outro. Foram utilizadas as localizações _**Extra 5, Extra 6 e Extra 7**_ para exibi-los. Estes banners também são responsivos, e portanto não contam com uma versão específica  para dispositivos móveis.
 * **Banner Categoria:** São banners exibidos nas páginas de catálogo (categoria). Utiliza a localização _**Banner Títulos**_. Estes banners são responsivos, desse modo, não contam com uma versão específica  para dispositivos móveis.
+
 
 ![image](/tema-padrao-3-0/banners-localizacao.png)
 
