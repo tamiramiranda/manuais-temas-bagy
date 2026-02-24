@@ -17,7 +17,7 @@ Exibição versão Mobile:
 ![image](/tema-padrao-3-0/painel-do-tema-pagina-inicial-full-banner-3.png)
 
 ::: info **Vale lembrar que:**
-O cadastro dos banners é feito dentro do painel da plataforma, no menu de _**Marketing > Engajamento > Banners.**_ \
+O cadastro dos banners é feito dentro do painel da plataforma, no menu de _**Loja virtual > Banners da loja**_ \
 Algumas configurações de efeitos configuradas através da plataforma junto ao cadastro do banner não serão refletidas no tema.
 :::
 

@@ -1,6 +1,6 @@
 # Localização na Plataforma
 
-Um elemento que chama muita atenção nas lojas são os banners. Eles podem possuir diversões tamanhos e composições, e agradam por trazer um trabalho gráfico mais elaborado. Este tema utiliza-os em posições estratégicas. Os banners podem ser cadastrados no painel administrativo acessando _**Marketing > Engajamento > Banners**._
+Um elemento que chama muita atenção nas lojas são os banners. Eles podem possuir diversões tamanhos e composições, e agradam por trazer um trabalho gráfico mais elaborado. Este tema utiliza-os em posições estratégicas. Os banners podem ser cadastrados no painel administrativo acessando _**Loja virtual > Banners da loja**._
 
 ::: info Lembrando que:
 Você pode escolher outras posições de banners para exibir em sua loja. O que está documentado aqui é a base que utilizamos caso queira se basear nela.

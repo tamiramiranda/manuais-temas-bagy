@@ -29,7 +29,7 @@ Sua principal função é garantir a acessibilidade para utilizadores com defici
 Deve ser cadastrado para que se tenha acesso a página da marca e os seus produtos.
 
 ::: info Mais
-Para cadastrar as marcas no painel da plataforma e ter o seu link acesse: **Produtos > Marcas e Fabricantes.** Para maiores detalhes [clique aqui](https://basedeconhecimento.bagy.com.br/hc/pt-br/articles/44774623772180-Cadastrando-marcas-e-fabricantes-na-sua-loja-Bagy-3-0).
+Para cadastrar as marcas no painel da plataforma e ter o seu link acesse: **Produtos > Marcas**. Para maiores detalhes [clique aqui](https://basedeconhecimento.bagy.com.br/hc/pt-br/articles/44774623772180-Cadastrando-marcas-e-fabricantes-na-sua-loja-Bagy-3-0).
 :::
 
 Lembrando que é possível cadastrar no **máximo 10** marcas.

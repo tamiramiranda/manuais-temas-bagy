@@ -1,6 +1,6 @@
 # Páginas Extras
 
-Toda loja conta com páginas relacionadas a operação e a empresa. São páginas com conteúdo fixo, diferente da página principal, página de produtos, categorias, carrinho e painel do cliente. Algumas páginas extras comuns em lojas são: **Sobre a Empresa, Segurança, Como Comprar, Pagamento e Envio**. Essas páginas podem ser configuradas acessando no menu lateral esquerdo,  em **Configurações > Minha loja > Páginas internas.**
+Toda loja conta com páginas relacionadas a operação e a empresa. São páginas com conteúdo fixo, diferente da página principal, página de produtos, categorias, carrinho e painel do cliente. Algumas páginas extras comuns em lojas são: **Sobre a Empresa, Segurança, Como Comprar, Pagamento e Envio**. Essas páginas podem ser configuradas acessando no menu lateral esquerdo,  em **Configurações > Minha loja > Páginas internas** ou em **Loja virtual > Páginas internas**.
 
 ![image](/tema-padrao-3-0/configuracoes-paginas.png)
 

@@ -12,6 +12,7 @@ export default defineConfig({
   lang: 'pt-BR',
   cleanUrls: true,
   base: process.env.VITEPRESS_BASE || '/',
+  head: [['link', { rel: 'icon', href: '/bagy-favicon.png' }]],
   themeConfig: {
     logo: {
       light: '/logo.svg',

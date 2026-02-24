@@ -10,7 +10,7 @@ Nós criamos os temas com diversas personalizações através do painel do tema 
 
 Para fazer qualquer modificação mais complexa no seu tema será necessário que ele não esteja publicado. Para isso você não precisa tirar a loja do ar,  basta duplicar o tema publicado. Caso o seu tema não esteja publicado ainda, você poderá fazer as alterações sem a necessidade de duplicá-lo.
 
-Para isso acesse no menu lateral esquerdo,  em **Configurações > Minha loja > Editar layout**. No seu tema clique em **Mais opções** e sem seguida clique em **Duplicar tema**. Você poderá editar o nome depois, caso queira.
+Para isso acesse no menu lateral esquerdo,  em **Configurações > Minha loja > Editar layout** ou **Loja virtual > Visual da loja**. No seu tema clique em **Mais opções** e sem seguida clique em **Duplicar tema**. Você poderá editar o nome depois, caso queira.
 
 ::: info **Dica**
 Apesar de não ser necessário duplicar para editar o código quando ele não está publicado, recomendamos que o faça. Assim, caso tiver algum problema você terá uma cópia de segurança.
