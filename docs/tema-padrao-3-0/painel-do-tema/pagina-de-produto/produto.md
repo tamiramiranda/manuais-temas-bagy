@@ -23,7 +23,7 @@ Em **Blocos da seção** temos:
 ![image](/tema-padrao-3-0/painel-do-tema-pagina-produto-produto-2.png)
 
 ::: danger **Atenção:**
-Após escolher a opção de exibição do preço em destaque do produto, o mesmo deve acessar no painel da plataforma em **Marketing > Trafego > XML de produtos** e escolher a opção de acordo para que não tenha problemas com os mecanismos de buscas e seja penalizado.
+Após escolher a opção de exibição do preço em destaque do produto, o mesmo deve acessar no painel da plataforma em **Marketing > XML de produtos** e escolher a opção de acordo para que não tenha problemas com os mecanismos de buscas e seja penalizado.
 :::
 
 ![image](/tema-padrao-3-0/painel-do-tema-pagina-produto-produto-3.png)

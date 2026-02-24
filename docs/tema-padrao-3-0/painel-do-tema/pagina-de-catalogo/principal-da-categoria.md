@@ -32,5 +32,5 @@ Menu de filtro de preço De-Até
 ![image](/tema-padrao-3-0/painel-do-tema-pagina-catalogo-5.png)
 
 ::: info **Vale lembrar que:**
-Ao desabilitar a opção de exibir o menu de filtro, para que seja exibida a página de catálogo completa, você pode configurar a quantidade de colunas e escolher a quantidade de produtos por página, indo em **Configurações > Produto >  Geral > Estrutura**
+Você pode configurar a quantidade de produtos exibidos por página, indo em **Configurações > Produto >  Geral > Estrutura > Quantidade de produtos por página (catálogo e busca)**
 :::

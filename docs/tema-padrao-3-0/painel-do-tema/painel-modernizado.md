@@ -20,7 +20,7 @@ Também é possível **adicionar** e **remover seções** não fixas pelo editor
 
 ***
 
-Cada uma das seções desse painel estarão disponíveis dentro do painel de edição do tema. Para isso basta acessar _**Configurações > Editar Layout**_ e no tema desejado clicar em _**Editar Tema**_.
+Cada uma das seções desse painel estarão disponíveis dentro do painel de edição do tema. Para isso basta acessar _**Configurações > Editar Layout**_ ou em _**Loja virtual > Visual da loja**_ e no tema desejado clicar em _**Editar Tema**_.
 
 A opção de **Editar tema** será exibida nos temas que estejam atualmente publicados e também nos temas instalados e não publicados.
 
