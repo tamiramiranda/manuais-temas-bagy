@@ -9,8 +9,11 @@ Em **Blocos da seção** temos:
 * **Logo:** exibe a logo da loja.
 * **Busca:** exibe a busca e é possível escolher o **Estilo de exibição** se será **Texto e ícone** ou somente **ícone**, sendo também possível editar o **Texto da busca**.
 * **Minha conta e Carrinho:** exibe os blocos de **Minha Conta** e **Carrinho**. Sendo possível escolher se deseja exibir o **Minha Conta** como **Texto e ícone** ou somente **ícone** e se deseja exibir somente o **ícone** do **Carrinho** ou **Mostrar contador** de quantidade de itens presente.
+* **Ícones customizados:** possível escolher o tamanho do ícones, variando de 16 à 48px, e cadastrar uma imagem para cada ícone.
 
 ![image](/tema-padrao-3-0/painel-tema-cabecalho.png)
+![image](/tema-padrao-3-0/painel-tema-cabecalho-2.png)
+
 Lembrando que para esses três blocos é possível fazer a sua reordenação, de acordo com o desejo de como exibir o cabeçalho.&#x20;
 
 ![image](/tema-padrao-3-0/painel-tema-cabecalho-2.gif)

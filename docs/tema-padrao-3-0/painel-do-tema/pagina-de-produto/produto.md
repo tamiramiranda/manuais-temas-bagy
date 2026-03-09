@@ -15,10 +15,10 @@ Em **Blocos da seção** temos:
 
     * **Preço em destaque:** Possível de escolher a maneira de **exibição do Preço do** **produto**, se será **Normal** ou **Pagamento com desconto.**
     * **Habilitar compartilhamento redes sociais:** Possibilidade de exibir ou não o compartilhamento do produto nas redes sociais.
-    * **Link da tabela de medidas:** Possível inserir o link para uma página personalizada com a tabela de medidas. O conteúdo será exibido em um modal.
+    * **Tabela de medidas:** Possível selecionar o link de uma página personalizada com a tabela de medidas. O select exibe as páginas cadastradas no painel da plataforma em **Configurações > Minha loja > Páginas internas**. O conteúdo da página será exibido em um modal.
 
 
-    ![image](/tema-padrao-3-0/painel-do-tema-pagina-produto-produto.png)
+![image](/tema-padrao-3-0/painel-do-tema-pagina-produto-produto.png)
 
 ![image](/tema-padrao-3-0/painel-do-tema-pagina-produto-produto-2.png)
 
