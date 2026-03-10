@@ -25,7 +25,7 @@ Ao selecionar **Produtos específicos** em **Tipo da vitrine**, é possível esc
 
 ![image](/tema-padrao-3-0/painel-do-tema-pagina-inicial-vitrine-2.png)
 
-Ao clicar em **Selecionar produtos**, será exibida uma lista com os produtos, basta clicar nos que deseja e em seguida no botão **Confirmar** que fica no rodapé.
+Ao clicar em **Selecionar produtos**, será exibida uma lista com os produtos, basta clicar nos que deseja e em seguida no botão **Confirmar** que fica no rodapé. Para produtos que tenham variação, é possível selecionar o produto "pai" ou selecionar as variações desejadas.
 
 Caso deseje procurar por um produto específico, no topo tem uma busca que pode ser realizada pelo nome ou código do produto.
 
@@ -33,8 +33,13 @@ Se não quiser selecionar nenhum produto, basta clicar no botão **Cancelar**
 
 ![image](/tema-padrao-3-0/painel-do-tema-pagina-inicial-vitrine-3.png)
 
-![image](/tema-padrao-3-0/painel-do-tema-pagina-inicial-vitrine-4.png)
+![image](/tema-padrao-3-0/painel-do-tema-pagina-inicial-vitrine-5.png)
 
+Para esse bloco de produtos é possível selecionar no máximo 16 produtos.
+
+![image](/tema-padrao-3-0/painel-do-tema-pagina-inicial-vitrine-6.png)
+
+![image](/tema-padrao-3-0/painel-do-tema-pagina-inicial-vitrine-4.png)
 ::: info **Dica:**
 Para saber mais sobre cadastro de produtos na plataforma, basta clicar [**aqui**.](https://basedeconhecimento.bagy.com.br/hc/pt-br/articles/44774449482004-Cadastrando-um-produto-na-sua-loja-Bagy-3-0)
 :::
